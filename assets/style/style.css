@@ -1,0 +1,26 @@
+.body {
+  margin: 0;
+  padding: 0;
+}
+
+.textarea__section {
+  width: 90%;
+  margin-inline: auto;
+}
+
+.textarea__style {
+  background-color: rgb(87, 240, 245);
+  width: 80%;
+  height: 150px;
+}
+
+.keyboard__keycap {
+  width: 36px;
+  height: 36px;
+  background-color: gray;
+  color: blanchedalmond;
+  border-radius: 5px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}/*# sourceMappingURL=style.css.map */
